@@ -4,4 +4,4 @@
 
 ---
 
-Email me at [yassir.laaroussi@outlook.com]{Mailto:yassir.laaroussi@outlook.com}
+Email me at [yassir.laaroussi@outlook.com](Mailto:yassir.laaroussi@outlook.com)
