@@ -4,4 +4,9 @@
 
 ---
 
+Hello-world   : String to CRC32
+Hello-wiorld2 : List to CRC32
+
+---
+
 Email me at [yassir.laaroussi@outlook.com](Mailto:yassir.laaroussi@outlook.com)
